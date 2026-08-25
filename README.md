@@ -1,34 +1,22 @@
-<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hey World! I'm **Match**, a designer & developer crafting calm, useful things — web frontend, AI art & quiet tools. <!-- github_stats starts -->...followers, ...stars<!-- github_stats ends -->
+# 你好，我是 Match0121 👋
 
-<table width="1200px" cellspacing="0" cellpadding="0">
-<tr>
-<td width="600px" valign="top">
+独立开发者，专注本地 AI 与效率工具。喜欢把东西做到「双击即用」，反感一切多余步骤。
 
-**Projects**
+## 🔨 正在做
 
-• [Universal Translator](https://github.com/Match0121/universal-translator) — turns game text into Chinese, with a reversible in-place editor
+- **[万能翻译站 · Universal Translator](https://github.com/Match0121/universal-translator-desktop)** — Windows 桌面全能翻译工具
+  - 文档 / PDF / 游戏 / 图片，拖入即译
+  - PDF 原排版导出：文本型原文原位替换译文，扫描件整页渲染成图后按图片方式覆盖
+  - 自带 OCR（图片文字识别、扫描件 PDF），完整版 / 精简版双包发布
+  - v1.3.0 · PyWebView + PyInstaller
 
-**Currently Building**
+## 🧰 技术栈与兴趣
 
-a translation workbench that brings text across languages, quietly
+- 本地 AI：Stable Diffusion、LLM、OCR（RapidOCR / onnxruntime）
+- 视觉：写实渲染、图像修复、局部重绘、DLSS
+- Windows 桌面工具链：Python / PyWebView / PyInstaller
+- 赛博朋克美学，深夜写代码
 
-</td>
-<td width="600px" valign="top">
+## 📮
 
-**Latest Releases**
-
-<!-- recent_releases starts -->
-• [v0.1.0](https://github.com/Match0121/universal-translator/releases) - 2026-08<br>
-<!-- recent_releases ends -->
-
-**Say hi**
-
-you can find me on [GitHub](https://github.com/Match0121)
-
-</td>
-</tr>
-</table>
-
-**Things I care about**: design, writing, rainy days, good coffee, and tools that respect your attention.
-
-<sub>Built with GitHub Actions — it updates itself.</sub>
+- 直接在 GitHub 上 @ 我，或到项目 Releases 下载体验
