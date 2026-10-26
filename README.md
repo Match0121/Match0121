@@ -20,3 +20,4 @@
 ## 📮
 
 - 直接在 GitHub 上 @ 我，或到项目 Releases 下载体验
+- [![爱发电赞助](https://img.shields.io/badge/爱发电-赞助作者-ff69b4.svg)](https://afdian.com/a/你的match0121)
