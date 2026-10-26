@@ -17,7 +17,8 @@
 - Windows 桌面工具链：Python / PyWebView / PyInstaller
 - 赛博朋克美学，深夜写代码
 
-## 📮
+## 📮 想要联系我？
 
 - 直接在 GitHub 上 @ 我，或到项目 Releases 下载体验
+- 通过邮箱联系我：Match0121@outlook.com
 - 如果你喜欢我的项目，请在[![爱发电赞助](https://img.shields.io/badge/爱发电-赞助作者-ff69b4.svg)](https://afdian.com/a/match0121)支持我！
