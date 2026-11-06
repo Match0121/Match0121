@@ -8,7 +8,7 @@
   - 文档 / PDF / 游戏 / 图片，拖入即译
   - PDF 原排版导出：文本型原文原位替换译文，扫描件整页渲染成图后按图片方式覆盖
   - 自带 OCR（图片文字识别、扫描件 PDF），完整版 / 精简版双包发布
-  - v1.3.0 · PyWebView + PyInstaller
+  - v1.4.1 · PyWebView + PyInstaller
 
 ## 🧰 技术栈与兴趣
 
